@@ -1,5 +1,6 @@
 //This is the Arduino code that provided the palette information to the LEDs through the Arduino 
 //This was also the first version that successfully connected Arduino to Processing(Processing_LEDStrip_v4) to have a functioning GUI
+//For physical circuit that I used refer to arduino_circuit_diagram.pdf that is also Arduino folder
 
 
 //External library that allows to easily program the LEDs & link attached 
